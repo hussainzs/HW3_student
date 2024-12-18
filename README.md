@@ -1,5 +1,5 @@
 # Swiftify
-Analytics for Taylor swift fants with song lists, graphs and analysis of different statistics related to her albums and songs. 
+Analytics for Taylor swift fans with song lists, graphs and analysis of different statistics related to her albums and songs. 
 
 ## Tech Stack
 Built with
